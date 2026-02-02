@@ -8,3 +8,5 @@ x=a+b+c
 
 # Work in progress
 
+#------------------------------------
+# DIVISION FUNCTIONALITY
