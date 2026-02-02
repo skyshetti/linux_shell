@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# script starts here
 release_file=/etc/os-release
 logfile=/var/log/updater.log
 errorlog=/var/log/updater_error.log
